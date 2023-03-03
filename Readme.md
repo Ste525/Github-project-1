@@ -1,5 +1,6 @@
 # Store Sales Review
-This application will run analysis on data with this criteria;
+
+This application will run analysis on data with these criteria;
 
 Calculate the total price average for all products
 
